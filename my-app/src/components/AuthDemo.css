@@ -24,7 +24,7 @@
   text-align: left;
 }
 
-/* Единая типографика: сбрасываем глобальные стили текста из index.css */
+
 .demo-page *,
 .demo-page *::placeholder {
   font-family: inherit;
@@ -133,7 +133,7 @@
   padding-right: 46px;
 }
 
-/* Скрываем встроенный глаз браузера, чтобы остался только свой */
+
 .demo-input-toggleable::-ms-reveal,
 .demo-input-toggleable::-ms-clear {
   display: none;
